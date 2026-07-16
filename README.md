@@ -151,8 +151,7 @@ This cheatsheet is inspired by and adapted from the official **Apple Container**
 
 ## 📬 Contact & Support
 
-- **Bug reports & feature requests:** Open an issue on [GitHub Issues](https://github.com/OWNER/apple-container-cheatsheet/issues)
-- **Discussions:** Use the [GitHub Discussions](https://github.com/OWNER/apple-container-cheatsheet/discussions) tab
+- **Bug reports & feature requests:** Open an issue on [GitHub Issues](https://github.com/WTHIJ/apple-container-cheatsheet/issues)
 - **PRs:** All contributions welcome - see the contributing section above for guidelines.
 
 ---
